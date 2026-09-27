@@ -1,0 +1,15 @@
+[
+  {
+    "id": "synthetic-0",
+    "question": "Which color is the cube?",
+    "context": "The cube is blue.",
+    "answers": {
+      "text": [
+        "blue"
+      ],
+      "answer_start": [
+        12
+      ]
+    }
+  }
+]

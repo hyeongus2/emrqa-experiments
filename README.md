@@ -1,6 +1,6 @@
 # EMRQA 질의응답 실험
 
-2025년 딥러닝 프로젝트에서 DeBERTa 기반 extractive QA, Pegasus 질문 paraphrase, soft prompt 학습을 실험했습니다. 이 저장소는 QA 데이터 전처리, 모델 학습, checkpoint 저장·로드, 답변 평가를 다룹니다.
+2025년 딥러닝개론 프로젝트에서 DeBERTa 기반 extractive QA, Pegasus 질문 paraphrase, soft prompt 학습을 실험했습니다. 이 저장소는 QA 데이터 전처리, 모델 학습, checkpoint 저장·로드, 답변 평가를 다룹니다.
 
 ## 구현
 
